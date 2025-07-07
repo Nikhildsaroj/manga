@@ -5,3 +5,4 @@ pandas
 sentence-transformers
 requests
 pillow
+tenacity
